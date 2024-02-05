@@ -1,0 +1,45 @@
+.background-color {
+  background-color: gainsboro;
+  padding-top: 100px;
+  height: 4600px;
+}
+
+#para4 {
+  padding-top: 25px;
+  padding-left: 520px;
+  font-size: 26px;
+}
+
+.div{
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  grid-template-rows: 33.3% 33.3% 33.3%;
+}
+
+.img1 {
+  padding-top: 33px;
+  padding-left: 320px;
+  height: 90px;
+  width: 120px;
+}
+
+.word1 {
+  padding-left:285px;
+  font-size:25px;
+}
+.line1{
+  padding-left:278px;
+}
+
+.img2{
+  padding-top: 39px;
+  padding-left: 170px;
+  height: 80px;
+  width: 120px;
+}
+ 
+.word2{
+  font-size: 25px;
+  padding-left: 100px;
+}
+
